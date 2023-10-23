@@ -1,0 +1,8 @@
+Pseoducode to find a plus b square:
+
+BEIGN
+  READ a_value, b_value
+  CALCULATE a_value + b_value and store as a_plus_b
+  COMPUTE ans = (a_plus_b)**2
+  DISPLAY ans
+END
